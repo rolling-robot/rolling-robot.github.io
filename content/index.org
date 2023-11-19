@@ -1,4 +1,7 @@
-#+toc: nil
+#+options: title:nil
+#+options: toc:nil
+
 #+title:Petr Mukhachev
 
-* Posts
+* About
+#+include: about.org

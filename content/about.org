@@ -1,2 +1,17 @@
-#+title:About: Petr Mukhachev
-I am a computer and aerospace enthusiast.
+#+options: toc:nil
+#+title:About
+
+My name is Petr. I am a computer science and aerospace enthusiast. My main role is systems engineer at 1440.
+My area of expertise is systems engineering/architecting complex systems in aerospace and machine learning for health analysis and control in technical systems.
+
+Before that I finished my postgraduate studies in Skolkovo Institute of Science and Technology on topics closely related to my current work.
+My previous work includes preliminary aircraft design and exploring its sensitivity on different technological factors, several projects related to predictive diagnostics of complex systems in aerospace, exploring advanced methods in cubesat magnetic attitude control.
+My graduate school alma mater, which I finished some time ago is Department of Aeromechanics and Flight Engineering in MIPT.
+
+Outside of my work I enjoy different sorts of activities from sailing to skiing and mountain climbing.
+
+* Accounts
+
+[[https://scholar.google.ru/citations?user=1SM9EmEAAAAJ&hl=en][Google scholar]]
+
+[[https://github.com/rolling-robot][Github]]
