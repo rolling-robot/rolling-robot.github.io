@@ -1,7 +1,0 @@
-* [[file:about.org][(2023-11-19) about]]
-(No preview)
-* [[file:index.org][(2023-11-19) Petr Mukhachev]]
-(No preview)
-* posts
-** [[file:posts/test.org][(2023-11-19) hello, world!]]
-(No preview)

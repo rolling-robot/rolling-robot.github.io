@@ -1,4 +1,0 @@
-#+toc: nil
-#+title:Petr Mukhachev
-
-* Posts
